@@ -25,6 +25,7 @@ The Dimensions of the Robot are 100x70x60 and can perform the following Function
  2) Hercules Motor Drivers
  3) UltraSonic Sensors
  4) Color Sensor
+ 
  **Mechanical Components:**
  1) Planetary Motors(For the Chain Slider Mechanism)
  2) DC Motors (For motion and for the plough)
