@@ -40,6 +40,10 @@ The Detailed Project Report can be found on the Github Repository.
 The Problem Statement can be found here:
 http://interiittech.org/events/terrace-farming-robot.html
 
+## Robot Image :
+![image](https://github.com/user-attachments/assets/5178588d-432c-4b01-a842-576765828a40)
+
+
 
 
 
